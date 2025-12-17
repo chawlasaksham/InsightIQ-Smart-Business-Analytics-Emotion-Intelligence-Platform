@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+opencv-python-headless
+tensorflow
+fer
+gunicorn
