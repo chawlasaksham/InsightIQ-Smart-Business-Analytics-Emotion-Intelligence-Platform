@@ -482,7 +482,7 @@ def detect_emotion():
 
     record_emotion_event(session_id, 'none', 0)
     return jsonify({'emotion': 'none'})
-
+train_model()
 if __name__ == '__main__':
-    train_model()
+    
     app.run(debug=True)
