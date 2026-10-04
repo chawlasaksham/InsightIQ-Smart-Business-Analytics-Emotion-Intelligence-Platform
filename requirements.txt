@@ -9,3 +9,4 @@ opencv-python-headless
 tensorflow
 fer
 gunicorn
+setuptools
